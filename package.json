@@ -1,6 +1,6 @@
 {
-  "name": "raspberry-pi-camera",
-  "version": "0.0.1",
+  "name": "raspberry-pi-photo-camera",
+  "version": "0.0.2",
   "description": "A wrapper for the Raspberry Pi camera commands.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/castlchef/raspberry-pi-camera"
+    "url": "https://github.com/castlchef/raspberry-pi-photo-camera"
   },
   "author": "Jonathan Beaumont <beaumont.a.jonathan@gmail.com>",
   "license": "GPL-3.0"
