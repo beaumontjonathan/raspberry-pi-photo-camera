@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Typescript
+*.js.map
+
+# Idea
+.idea/
