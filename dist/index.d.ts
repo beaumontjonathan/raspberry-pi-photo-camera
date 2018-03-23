@@ -1,1 +1,1 @@
-export default function hello(): string;
+export declare function takePicture(fileName: string): Promise<void>;
